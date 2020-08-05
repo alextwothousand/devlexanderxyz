@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [sa:online](https://github.com/san-andreas-online)
-- 🌱 I’m currently learning Game Networking & how to Reverse Engineer.
+- 🔭 I’m currently working on something.
+- 🌱 I’m currently learning game networking.
 - 👯 I’m looking to collaborate on different multiplayer modifications.
 - 💬 Ask me about any sort of help you need!
 - 📫 How to reach me: @lex#1646 on Discord.
